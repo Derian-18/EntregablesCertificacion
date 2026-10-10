@@ -53,3 +53,8 @@ capaz de ejecutarse en cualquier equipo de Windows y entregarse com producto for
 ## 5. Diagramas tecnicos
 
 ### 6.1 Diagrama de clases (UML)
+<p align="center">
+  <img src="docs/Diagrama%20UML.png" alt="Diagrama UML" width="700">
+</p>
+
+### 6.2. Diagrama Entidad-Relacion (ER)
