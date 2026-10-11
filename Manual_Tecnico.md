@@ -58,3 +58,6 @@ capaz de ejecutarse en cualquier equipo de Windows y entregarse com producto for
 </p>
 
 ### 6.2. Diagrama Entidad-Relacion (ER)
+<p align="center">
+  <img src="docs/Diagrama%20ER.jpg" alt="Diagrama UML" width="700">
+</p>
