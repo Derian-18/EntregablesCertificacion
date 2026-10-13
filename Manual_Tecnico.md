@@ -3,11 +3,12 @@
 ## Indice
 1. Introducción
 2. Objetivo general
-3. Requerimientos de instalacion
-4. Diagramas tecnicos
+3. Objetivos especificos
+4. Requerimientos de instalacion
+5. Diagramas tecnicos
    - Diagrama de clases
    - Diagrama Entidad-Relaacion
-6. Desarrollo y código de la aplicacion
+6. Desarrollo técnico y código
 7. Procedimiento de instalación y ejecucion
 8. Generación del ejecutable
 
@@ -52,17 +53,17 @@ capaz de ejecutarse en cualquier equipo de Windows y entregarse com producto for
    
 ## 5. Diagramas técnicos
 
-### 6.1 Diagrama de clases (UML)
+### 5.1 Diagrama de clases (UML)
 <p align="center">
   <img src="docs/Diagrama%20UML.jpg" alt="Diagrama UML" width="700">
 </p>
 
-### 6.2. Diagrama Entidad-Relacion (ER)
+### 5.2 Diagrama Entidad-Relacion (ER)
 <p align="center">
   <img src="docs/Diagrama%20ER%20.jpg" alt="Diagrama UML" width="700">
 </p>
 
-## 7. Desarrollo técnico y código
+## 6. Desarrollo técnico y código
 ### Estructura del proyecto
 ```bash
 proyecto_certificacion/
@@ -1338,7 +1339,7 @@ def init_db():
     finally:
         conn.close()
 ```
-### Procedimiento de instalación y ejecucion
+## 7. Procedimiento de instalación y ejecución
 1. Clonar o descargar el proyecto.
 2. Crear entorno virtual:
    ```powershell
@@ -1361,7 +1362,7 @@ def init_db():
    python main.py
    ```
 
-## 9. Generacion del ejecutable
+## 8. Generacion del ejecutable
 1. Instalar PyInstaller:
    ```bash
    pip install pyinstaller
