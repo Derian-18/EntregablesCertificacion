@@ -59,7 +59,7 @@ capaz de ejecutarse en cualquier equipo de Windows y entregarse com producto for
 
 ### 6.2. Diagrama Entidad-Relacion (ER)
 <p align="center">
-  <img src="docs/Diagrama%20ER.jpg" alt="Diagrama UML" width="700">
+  <img src="docs/Diagrama%20ER%20.jpg" alt="Diagrama UML" width="700">
 </p>
 
 ## 7. Desarrollo técnico y código
@@ -1338,4 +1338,37 @@ def init_db():
     finally:
         conn.close()
 ```
+### Procedimiento de instalación y ejecucion
+1. Clonar o descargar el proyecto.
+2. Crear entorno virtual:
+   ```powershell
+   # Windows
+   python -m venv venv
+   venv\Scripts\activate
+   ```
 
+   ```bash
+   # Linux
+   python -m venv venv
+   source venv/bin/activate
+   ```
+3. Instalar dependencias::
+   ```bash
+   pip install requirements.txt
+   ```
+4. Ejecutar el sistema:
+   ```bash
+   python main.py
+   ```
+
+## 9. Generacion del ejecutable
+1. Instalar PyInstaller:
+   ```bash
+   pip install pyinstaller
+   ```
+2. Crear el .exe:
+   ```bash
+   pyinstaller --oneline main.py
+   ```
+3. Copiar la base certificacion.db a la misma carpeta del  ejecutable (dist/)
+4. Validar la ejecución en un equipo sin python instalado
