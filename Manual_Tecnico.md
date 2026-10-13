@@ -28,7 +28,7 @@ capaz de ejecutarse en cualquier equipo de Windows y entregarse com producto for
 
 ## 3. Objetivos especificos
   - Registrar, editar, eliminar y consultar Estudiantes.
-  - Registrar, editar, eliminar y con consultar Cursos.
+  - Registrar, editar, eliminar y consultar Cursos.
   - Registrar, editar, eliminar y consultar inscripciones.
   - Implementar consultas SQL que:
       - Relacionen cursos con sus estudiantes (JOIN).
