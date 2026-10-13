@@ -71,7 +71,7 @@ proyecto_certificacion/
 |  crud.py            # Funciones de  base de datos (CRUD)
 |  models.py          # Clases Estudiante, Curso e inscripciones
 |  db.py              # Conexión SQLite y creación de tablas
-|  requirements.txt   # Dependcias del proyectpo
+|  requirements.txt   # Dependencias del proyecto
 |_ certificacion.db   # Base de datos SQLite
 ```
 
