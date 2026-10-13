@@ -86,7 +86,7 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
 #### Registrar una inscripcion
   1. Cuando selecciones los campos de alumno y curso, se listaran los alumnos y cursos disponibles.
   2. Seleccionas el alumno y su curso al que quieras inscribirlo.
-  3. Haz clic en **Crear**
+  3. Haz clic en **Inscribir**
   4. El sistema confirmara que la inscripción fue creada
 
 #### Actualizar datos una inscripcion
@@ -101,5 +101,10 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   2. Se rellenaran los campos de alumno y curso
   4. Haz clic en **Eliminar**
   5. El sistema confirmara que la inscripción fue eliminada
+
+#### Botones para limpiar campos y recargar
+- Si quieres limpiar los campos de texto, has clic en el boton llamado **Limpiar**.
+
+- Si quieres recargar todo el sistema, haz clic en **Recargar**.
 
 ## Glosario
