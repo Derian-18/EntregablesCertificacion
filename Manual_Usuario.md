@@ -146,7 +146,7 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
 
 - Si quieres recargar todo el sistema, haz clic en **Recargar**.
 <p align="center">
-  <img src="docs/GuiaDeUso/Limpiar.png" alt="Diagrama UML" width="700">
+  <img src="docs/GuiaDeUso/Recargar.png" alt="Diagrama UML" width="700">
 </p>
 
 ## Glosario
