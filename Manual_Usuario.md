@@ -24,7 +24,7 @@ Su finalidad es **centralizar toda la información acerca de los  cursos inscrit
 ### Software
 - Sistema operativo: Windows 10 o superior.
 - Archivo ejecutable: main.exe generado con PyInstaller.
-- Base de datos: SQLite (archivo certificacionn.db, incluido en la entrega)
+- Base de datos: SQLite (archivo certificacion.db, incluido en la entrega)
 
 ## Instalacion y configuracion
 1. Copia la carpeta del sistema a tu computadora.
@@ -150,3 +150,7 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
 </p>
 
 ## Glosario
+ - **Base de datos (SQLite):** Archivo donde se guarda toda la información del sistema.
+ - **Registro:** Conjunto de datos almacenados, por ejemplo, un estudiante, un curso y/o una inscripcion.
+ - **ID:** Numero único que identifica a cada estudiante, curso e inscripcion.
+ - **Ejecutable (.exe):** Archivo que permite abrir el sistema sin necesidad de usar codigo.
