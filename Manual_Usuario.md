@@ -40,7 +40,9 @@ En la parte superior izquierda podrás encontrar 3 pestanias para dirigirte a un
 
 Con ellos podras realizar diferentes secciones segun el apartado donde estes.
 
-**inserte imagen**
+<p align="center">
+  <img src="docs/GuiaDeUso/Pestanias.png" alt="Diagrama UML" width="700">
+</p>
 
 ### Estudiantes
 #### 1. Registrar un estudiante
@@ -48,7 +50,9 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   2. Haz clic en **Crear**.
   3. El sistema confirmara que el estudiante fue creado.
        
-     **inserte imagen**
+<p align="center">
+  <img src="docs/GuiaDeUso/CrearEstudiante.png" alt="Diagrama UML" width="700">
+</p>
      
 #### 2. Actualizar datos un estudiante
   1. Haz clic en un registro disponible para seleccionarlo.
@@ -56,6 +60,10 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   3. En ese instante, podrás modificar algún valor como el nombre y/o la matricula.
   4. Haz clic en **Actualizar**
   5. El sistema confirmara que el estudiante fue actualizado.
+
+<p align="center">
+  <img src="docs/GuiaDeUso/ActualizarEstudiantes.png" alt="Diagrama UML" width="700">
+</p>
   
 #### 3. Eliminar un estudiante
   1. Haz clic en un registro.
@@ -63,11 +71,19 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   3. Haz clic en **Eliminar**
   4. El sistema confirmara que el estudiante seleccionado fue eliminado.
 
+<p align="center">
+  <img src="docs/GuiaDeUso/EliminarEstudiante.png" alt="Diagrama UML" width="700">
+</p>
+
 ### Cursos
 #### Registrar un curso
   1. En los campos disponibles, ingresa nombre del curso y sus creditos.
   2. Haz clic en **Crear**.
   3. El sistema confirmara que el curso fue creado.
+
+<p align="center">
+  <img src="docs/GuiaDeUso/CrearCurso.png" alt="Diagrama UML" width="700">
+</p>
 
 #### Actualizar datos de un curso
   1. Haz clic en un registro.
@@ -76,11 +92,19 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   4. Haz clic en **Actualizar**
   5. El sistema confirmara que el curso fue actualizado.
 
+<p align="center">
+  <img src="docs/GuiaDeUso/ActualizarCurso.png" alt="Diagrama UML" width="700">
+</p>
+
 #### Eliminar un curso
   1. Haz clic en un registro.
   2. Se rellenaran los campos de nombre y creditos con la información del curso seleccionado.
   3. Haz clic en **Eliminar**.
   4. El sistema confirmara que el curso seleccionado fue eliminado.
+
+<p align="center">
+  <img src="docs/GuiaDeUso/EliminarCurso.png" alt="Diagrama UML" width="700">
+</p>
 
 ### Inscripciones
 #### Registrar una inscripcion
@@ -89,6 +113,10 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   3. Haz clic en **Inscribir**
   4. El sistema confirmara que la inscripción fue creada
 
+<p align="center">
+  <img src="docs/GuiaDeUso/CrearInscripcion.png" alt="Diagrama UML" width="700">
+</p>
+
 #### Actualizar datos una inscripcion
   1. Seleccionas algún registro que tengas ya guardado.
   2. Se rellenaran los campos de alumno y curso
@@ -96,15 +124,29 @@ Con ellos podras realizar diferentes secciones segun el apartado donde estes.
   4. Haz clic en **Actualizar**
   5. El sistema confirmara que la inscripción fue actualizada
 
+<p align="center">
+  <img src="docs/GuiaDeUso/actualizarInscripcion.png" alt="Diagrama UML" width="700">
+</p>
+
 #### Eliminar una inscripcion
   1. Seleccionas algún registro que tengas ya guardado.
   2. Se rellenaran los campos de alumno y curso
   4. Haz clic en **Eliminar**
   5. El sistema confirmara que la inscripción fue eliminada
 
+<p align="center">
+  <img src="docs/GuiaDeUso/EliminarInscripcion.png" alt="Diagrama UML" width="700">
+</p>
+
 #### Botones para limpiar campos y recargar
 - Si quieres limpiar los campos de texto, has clic en el boton llamado **Limpiar**.
+<p align="center">
+  <img src="docs/GuiaDeUso/Limpiar.png" alt="Diagrama UML" width="700">
+</p>
 
 - Si quieres recargar todo el sistema, haz clic en **Recargar**.
+<p align="center">
+  <img src="docs/GuiaDeUso/Limpiar.png" alt="Diagrama UML" width="700">
+</p>
 
 ## Glosario
